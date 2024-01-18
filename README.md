@@ -12,6 +12,7 @@ Input Handling: Implement proper input validation and handling. Ensure that inpu
 Exception Handling: Implement robust exception handling throughout the application. Handle scenarios like invalid input, null references, out-of-bounds indices, and other potential errors gracefully. Create custom exceptions for specific error cases if needed.
 Logging: Incorporate logging using a logging framework like Log4j or java.util.logging to capture relevant information, errors, and events during the application's execution.
 Testing: Write unit tests using JUnit or another testing framework to ensure the correctness of your methods and the application as a whole. Test edge cases and scenarios where exceptions might be thrown. Write at least 10 test cases for the TaskManager class.
+
 2.    Task: Task Management Application Design
 To apply your UML design skills, design a task management application in three stages, each as a class diagram.
 
